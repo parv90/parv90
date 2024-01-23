@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parv Patel</h1>
-<h3 align="center">A passionate frontend developer from India. Currently I am a final year student from PDEU (Formally known as PDPU). I love to work in Web Development especially front-end.</h3>
+<h3 align="center">Currently, I am a graduate student at northeastern university, Majoring in Software Engineering Systems. I have completed my Bachelors in Information and Communication Technology Engineering at Pandit Deendayal Energy University. 
+
+As experience, I have done two internships during my bachelor’s. First one, as a .Net developer in C# language where I was developing ERP and CRM softwares. My other internship was as Software Engineer Intern at monarch innovation where I was building Cross platform app using Javascript and Python.
+
+Additionally, I have a conference paper for building 3D Viewer Tool Application for 3D BIN PACKING ALGORITHM at 3rd Asian Conference on Innovation Technology (ASIANCON). 
+
+I am highly proficient in Javascript and Python language. I am also skilled in DBMS and OOCP concepts. I want to apply my skill and expertise toward designing and building efficient software which can provide solutions for industrial problems. I am a problem solver, avid reader, a cinephile, dedicated gamer and a sport enthusiast.</h3>
 
 - 🔭 I’m currently working on [WatchMov](https://github.com/parv90/WatchMov.git.io)
 
@@ -11,11 +17,11 @@
 
 - 📫 How to reach me **parv.p90@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/parv-patel-2849b6196/](https://www.linkedin.com/in/parv-patel-2849b6196/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/parv-patel-2849b6196/](https://www.linkedin.com/in/parv-patel90/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parv-patel-2849b6196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parv-patel-2849b6196" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parv-patel90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parv-patel-2849b6196" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
